@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+    color: rgb(105, 255, 243);
+    font-family: 'Pacifico', cursive;
+}
+
+.heading{
+    color: rgb(255, 0, 149);
+    font-family: 'Palette Mosaic', cursive;
+    font-size: 60px;
+}
+
+#camera,#result{
+    height: 300px;
+    width: 360px;
+    border: dashed 3px yellowgreen;
+}
+
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color: violet;
+    font-family: 'WindSong', cursive;
+    font-size: 40px;
+}
+
+#welcome_page{
+    background-image: url("https://wallpapercave.com/wp/wp7477648.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#welcome,#hello{
+    color: blanchedalmond;
+    font-family: 'Amatic SC', cursive;
+}
+
+#start2{
+   background-color: cadetblue;
+   color: black;
+   font-family: 'Amatic SC', cursive;
+}
+
+#margin{
+    margin-top: 270px;
+}
+
+#name{
+    color: darksalmon;
+    font-size: 30px;
+  margin: 20px;
+    font-family: 'Amatic SC', cursive;
+}
+
+#dt{
+    background-color: rgba(255, 235, 205, 0);
+    font-family: 'Amatic SC', cursive;
+    color: darksalmon;
+    margin-left: 1400px;
+    bottom: 20px;
+    position: fixed;
+    font-size: 20px;
+}
